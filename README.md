@@ -1,2 +1,3 @@
-# New-project
-Here I will be working on my next project!
+# Next-project
+Here I will be working on my next project.
+
