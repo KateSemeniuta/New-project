@@ -7,7 +7,8 @@
 
 ## About me
 
-Hi, I'm Kate!
+Hi, I am Kate!
+My favorite programming languages are:
 
 | Rank | Languages |
 |-----:|-----------|
