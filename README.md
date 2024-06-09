@@ -8,7 +8,7 @@
 ## About me
 
 Hi! I am Kate.
-My favorite programming languages are:
+My top-3 favorite programming languages are:
 
 | Rank | Languages |
 |-----:|-----------|
