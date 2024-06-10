@@ -21,8 +21,8 @@ My top-3 favorite programming languages are:
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| JavaScript|
+|     1| SQL       |
 |     2| Python    |
-|     3| SQL       |
+|     3| R         |
 
 </details>
