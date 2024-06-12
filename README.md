@@ -31,3 +31,7 @@ My top-3 favorite programming languages are:
 > If we pull together and commit ourselves, then we can push through anything.
 
 — Mona the Octocat
+
+## About me
+
+<!-- TO DO: add more details about me later -->
