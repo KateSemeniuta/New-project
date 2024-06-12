@@ -26,3 +26,8 @@ My top-3 favorite programming languages are:
 |     3| R         |
 
 </details>
+
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat
