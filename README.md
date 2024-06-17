@@ -34,4 +34,5 @@ My top-3 favorite programming languages are:
 
 ## About me
 
-<!-- TO DO: add more details about me later -->
+<!-- TO DO: add more details later -->
+
