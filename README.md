@@ -40,3 +40,4 @@ My top-3 favorite programming languages are:
 ## A second-level heading
 ### A third-level heading
 **This is bold text**
+_This text is italicized_
